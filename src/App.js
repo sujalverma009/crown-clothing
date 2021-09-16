@@ -1,13 +1,13 @@
-import logo from './logo.svg';
+
 import './App.css';
-import Homepage from './homepage.component'; 
+import Homepage from './paje/hopage/homepage.component'; 
 
 function App() {
   return (
     <div >
       <Homepage />
     </div>
-  );
+  )
 }
 
 export default App;
